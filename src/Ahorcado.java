@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class Ahorcado {
     public static void main(String[] args) {
-        // Lista de palabras para el juego
+        // Lista de palabras para el juego del ahorcado
         String[] palabras = {"programacion", "java", "ahorcado", "desarrollo", "codigo"};
         
         // Seleccionar una palabra aleatoria de la lista
